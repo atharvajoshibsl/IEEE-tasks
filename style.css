@@ -1,0 +1,70 @@
+*{  background-color: black; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0px 0px;
+    background-size: cover;
+    background-image: url;
+    text-align: center;
+    font-family: cursive;
+    vertical-align: baseline;
+    margin: auto;
+    box-sizing: border-box;
+    height: auto;
+}
+#usname {
+    text-shadow: 2px 2px 8px red;
+    color: yellow;
+    font-size: 1vw;
+}
+
+#pswrd{
+    text-shadow: 2px 2px 8px red;
+    color: yellow;
+    width: 150px;
+    font-size: 1vw;
+   
+}
+#title{
+    text-shadow: 3px 3px 10px red;
+    text-decoration: underline;
+    color: yellow;
+    font-size: 3vw;
+}
+#button{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    color: yellow;
+    font-size: larger;
+    border: medium inset tomato; 
+}
+#button:hover{
+    color: cyan;
+    border: thick outset cyan;    
+}
+::placeholder{
+    color: yellow;
+}
+#box1{
+    width: 300px;
+    height: 25px;
+    color: yellow;
+    border: medium inset tomato;
+    
+}
+#box2{
+    width: 300px;
+    height: 25px;
+    color: yellow;
+    border: medium inset tomato;
+}
+
+.form{
+    border: thin inset rgb(226, 231, 212);
+    border-radius: 5px;
+    border-inline-start-width: medium;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    size: 500px;
+}
